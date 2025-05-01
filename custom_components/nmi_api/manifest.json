@@ -1,0 +1,10 @@
+{
+    "domain": "nmi_api",
+    "name": "NMI API",
+    "version": "0.1.0",
+    "documentation": "https://github.com/sugarlata/home-asstant-nmi-dashboard",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": ["@sugarlata"]
+  }
+  

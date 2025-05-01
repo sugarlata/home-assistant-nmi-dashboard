@@ -1,0 +1,8 @@
+{
+    "name": "NMI Dashboard",
+    "content_in_root": false,
+    "domains": [
+        "integration"
+    ],
+    "country": "au"
+}
